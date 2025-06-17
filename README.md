@@ -1,4 +1,4 @@
-# US States Game 🇺🇸
+# US States Game
 This is a Python-based interactive game that helps you learn U.S. state names by placing them correctly on a blank map. It uses the turtle graphics module along with data from a CSV file.
 
 # How it works
