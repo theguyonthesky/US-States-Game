@@ -28,3 +28,4 @@ This is a Python-based interactive game that helps you learn U.S. state names by
 
 # License
 This project is licensed under the MIT License — feel free to use or modify it for learning purposes.
+<br>**Have fun! 😊**
