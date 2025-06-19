@@ -26,6 +26,19 @@ This is a Python-based interactive game that helps you learn U.S. state names by
 
 - `states_to_learn.csv`: Auto-generated list of missed states.
 
+# How to Run
+1. Make sure Python is installed on your system
+
+2. Clone or download this repository.
+
+3. Place `blank_states_img.gif`, `50_states.csv` in the same directory as `main.py`  
+   *(Note: The data.json file is auto-created in the same directory when you save your first entry — no need to add it manually.)*
+   
+4. Run the game using one of the following methods:
+
+    - Terminal (macOS/Linux): 'python3 main.py'
+    - Windows (or IDEs like VS Code, PyCharm): 'python main.py' or use the Run button
+
 # License
 This project is licensed under the MIT License — feel free to use or modify it for learning purposes.
 <br>**Have fun! 😊**
