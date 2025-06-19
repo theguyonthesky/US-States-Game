@@ -10,21 +10,21 @@ This is a Python-based interactive game that helps you learn U.S. state names by
 
 - If you type "Exit", the game ends and generates a CSV file with the states you missed, so you can study them later.
 
-# Tech used
+# Tools and modules used
 - Python 🐍
 
-- turtle graphics
+- `turtle` graphics
 
-- pandas for data handling
+- `pandas` for data handling
 
 # Files included
-- main.py: The main game logic.
+- `main.py`: The main game logic.
 
-- blank_states_img.gif: The map used for the game.
+- `blank_states_img.gif`: The map used for the game.
 
-- 50_states.csv: Contains state names and coordinates.
+- `50_states.csv`: Contains state names and coordinates.
 
-- states_to_learn.csv: Auto-generated list of missed states.
+- `states_to_learn.csv`: Auto-generated list of missed states.
 
 # License
 This project is licensed under the MIT License — feel free to use or modify it for learning purposes.
