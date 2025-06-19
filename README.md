@@ -11,11 +11,11 @@ This is a Python-based interactive game that helps you learn U.S. state names by
 - If you type "Exit", the game ends and generates a CSV file with the states you missed, so you can study them later.
 
 # Tools and modules used
-- Python 🐍
+- Python
 
-- `turtle` graphics
+- `turtle` – to display the map and state names
 
-- `pandas` for data handling
+- `pandas` – to read and write CSV data
 
 # Files included
 - `main.py`: The main game logic.
