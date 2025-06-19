@@ -32,7 +32,6 @@ This is a Python-based interactive game that helps you learn U.S. state names by
 2. Clone or download this repository.
 
 3. Place `blank_states_img.gif`, `50_states.csv` in the same directory as `main.py`  
-   *(Note: The data.json file is auto-created in the same directory when you save your first entry — no need to add it manually.)*
    
 4. Run the game using one of the following methods:
 
